@@ -2,6 +2,12 @@
 
 This is a script that creates and continuously updates a text file that can be used as a source on OBS to display the current VCT game and match scores.
 
+<br>
+
+Any questions or comments you can DM me on discord: `Meeks#5150`
+
+<br>
+
 ### Installation & Running
 
 1. Install both `requirements.txt` and `vct_scores.py` by going over to the right side of the page and going to the `download` release.
