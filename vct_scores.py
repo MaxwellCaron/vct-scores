@@ -113,7 +113,7 @@ if __name__ == '__main__':
             scores += format(x['match_page'])
 
         f = open("scores.txt", "w")
-        f.write(scores)
+        f.write("Scores:\n" + scores)
         f.close()
 
         time.sleep(60)
