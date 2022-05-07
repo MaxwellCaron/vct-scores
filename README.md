@@ -15,3 +15,15 @@ This is a script that creates and continuously updates a text file that can be u
 2. Check the "Read from file" box
 3. Browse to where `requirements.txt` and `vct_scores.py` were installed.
 4. Select `scores.txt`
+
+### Format Example
+
+![image](https://user-images.githubusercontent.com/69171981/167242192-6fceb0f6-0268-45f8-adce-1c954e5ef427.png)
+
+<br><br>
+
+### Video Walkthough
+
+https://user-images.githubusercontent.com/69171981/167242165-62f8c749-053a-42d1-b451-2fd779ddedb9.mp4
+
+
