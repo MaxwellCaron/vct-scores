@@ -4,7 +4,7 @@ This is a script that creates and continuously updates a text file that can be u
 
 ### Installation & Running
 
-1. Install both `requirements.txt` and `vct_scores.py`
+1. Install both `requirements.txt` and `vct_scores.py` by going over to the right side of the page and going to the `download` release.
 2. Navegate to where the files were downloaded and right click off to the right side somewhere and click "Open In Terminal"
 3. Download dependencies via Terminal: `py -m pip install -r requirements.txt`
 4. Run `vct_scores.py` via Terminal: `.\vct_scores.py` (Do not close Terminal until program is no longer of use.)
