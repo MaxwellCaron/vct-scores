@@ -97,9 +97,9 @@ def format(url):
     game_score = find_game_score(url)
     series_score = find_series_score(url)
 
-    if "0" not in game_score[0].text and "0" not in game_score[2].text:
+    if "0" not in game_score[0].text and "0" not in game_score[1].text:
         final = (f"\n{teams[0]} - {game_score[0].text.strip()} ({series_score[0]})\n"
-                  f"{teams[1]} - {game_score[0].text.strip()} ({series_score[2]})\n")
+                  f"{teams[1]} - {game_score[1].text.strip()} ({series_score[2]})\n")
         return final
     else:
         return ""
